@@ -9,4 +9,4 @@ LINK_DIRECTORIES(C:/Users/Administrator/AppData/Local/Programs/Python/Python39/l
 LINK_LIBRARIES(python39_d.lib)
 add_executable(CPP_python2
 cpp_python2.cpp)
-target_link_libraries(CPP_python2 python39_d.dll)
+#target_link_libraries(CPP_python2 python39_d.dll)
